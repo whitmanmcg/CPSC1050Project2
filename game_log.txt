@@ -1,0 +1,55 @@
+Game Log
+Created at: 2024-04-27 23:06:14.295014
+--------------------
+2024-04-27 23:06:14.298138: Game started with player: p
+2024-04-27 23:06:14.301556: Getting ready took 11 minutes.
+2024-04-27 23:06:14.303715: Overall travel time: 11 minutes.
+2024-04-27 23:06:14.305722: Overall time after getting ready: 11 minutes.
+2024-04-27 23:06:15.638003: Chose mode of transport: 2
+2024-04-27 23:06:15.640486: Bus waiting time: 12 minutes.
+2024-04-27 23:06:15.642709: Bus travel time due to traffic: 11 minutes.
+2024-04-27 23:06:15.644947: Overall travel time: 34 minutes.
+2024-04-27 23:06:15.647185: Arrived on campus.
+2024-04-27 23:06:19.554427: Friend interaction choice: 2
+2024-04-27 23:06:22.733646: Response to friend: 2
+2024-04-27 23:06:22.736703: Friend threw sand, added 10 minutes.
+2024-04-27 23:06:22.738985: Overall travel time: 49 minutes.
+2024-04-27 23:06:22.741197: Finished walking to class, added 5 minutes.
+2024-04-27 23:06:22.743364: Made it to class on time.
+2024-04-27 23:06:22.745703: Game ended. Final overall time: 49 minutes.
+2024-04-27 23:06:26.070647: Game started with player: p
+2024-04-27 23:06:26.073236: Getting ready took 13 minutes.
+2024-04-27 23:06:26.076447: Overall travel time: 13 minutes.
+2024-04-27 23:06:26.079353: Overall time after getting ready: 13 minutes.
+2024-04-27 23:06:27.759859: Chose mode of transport: 3
+2024-04-27 23:06:27.762641: Car travel time due to traffic: 19 minutes.
+2024-04-27 23:06:43.303947: Car parking choice: 2
+2024-04-27 23:06:43.306352: Overall travel time: 52 minutes.
+2024-04-27 23:06:43.308464: Arrived on campus.
+2024-04-27 23:06:43.310408: Tripped and fell, added 5 minutes.
+2024-04-27 23:06:43.312484: Overall travel time: 57 minutes.
+2024-04-27 23:06:48.256931: Friend interaction choice: 1
+2024-04-27 23:06:48.259359: Overall travel time: 57 minutes.
+2024-04-27 23:06:48.262354: Ignored friend: w.
+2024-04-27 23:06:48.265001: Overall travel time: 62 minutes.
+2024-04-27 23:06:48.268099: Finished walking to class, added 5 minutes.
+2024-04-27 23:06:48.270415: Did not make it to class on time.
+2024-04-27 23:06:48.272608: Game ended. Final overall time: 62 minutes.
+2024-04-27 23:06:51.568447: Game started with player: p
+2024-04-27 23:06:51.571185: Getting ready took 16 minutes.
+2024-04-27 23:06:51.573194: Overall travel time: 16 minutes.
+2024-04-27 23:06:51.576756: Overall time after getting ready: 16 minutes.
+2024-04-27 23:06:52.970268: Chose mode of transport: 3
+2024-04-27 23:06:52.973063: Car travel time due to traffic: 12 minutes.
+2024-04-27 23:06:54.769596: Car parking choice: 1
+2024-04-27 23:06:54.772138: Could not find a parking spot, added 5 minutes.
+2024-04-27 23:06:54.775341: Overall travel time: 48 minutes.
+2024-04-27 23:06:54.778676: Arrived on campus.
+2024-04-27 23:06:58.891373: Friend interaction choice: 2
+2024-04-27 23:06:59.930636: Response to friend: 1
+2024-04-27 23:06:59.933185: Friend reacted with conspiracy, added 5 minutes.
+2024-04-27 23:06:59.935866: Overall travel time: 53 minutes.
+2024-04-27 23:06:59.937831: Overall travel time: 58 minutes.
+2024-04-27 23:06:59.939693: Finished walking to class, added 5 minutes.
+2024-04-27 23:06:59.941666: Made it to class on time.
+2024-04-27 23:06:59.943657: Game ended. Final overall time: 58 minutes.
